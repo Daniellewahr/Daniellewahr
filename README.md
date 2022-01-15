@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniellewahr
+- 👋 Hi, I’m Danielle Wahrhaftig
 - 👀 I’m interested in Frontend and Backend Development
 - 🌱 I’m currently learning Computer Science and Business at McGill University
 - 💞️ I’m looking for internship opportunities in the wonderful world of web development (www -> obviously means wonderful web world)
