@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danielle Wahrhaftig
-- 👀 I’m interested in Frontend and Backend Development
+- 👀 I’m interested in Frontend Development, Backend Development, and anything related!
 - 🌱 I’m currently learning Computer Science and Business at McGill University
 - 💞️ I’m looking for internship opportunities in the wonderful world of web development (www -> obviously means wonderful web world)
 - 📫 [Contact me!](mailto:daniellewahrhaftig@gmail.com) 
