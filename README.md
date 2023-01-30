@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danielle Wahrhaftig
 - 👀 I’m interested in software engineering, fullstack development, data engineering and anything related!
-- 🌱 I’m currently learning computer science and business at McGill University
+- 🌱 I’m currently studying computer science and business at McGill University
 - 💞️ I’m looking for internship opportunities in data/fullstack/backend engineering for summer 2023!
 - 📫 [Contact me!](mailto:daniellewahrhaftig@gmail.com) 
 <!---
