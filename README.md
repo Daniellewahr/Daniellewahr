@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danielle Wahrhaftig
-- 👀 I’m interested in full stack development and data engineering!
+- 👀 I’m interested in backend development and data engineering roles!
 - 🌱 I’m currently studying computer science and business at McGill University
 - 📫 [Contact me!](mailto:danielle.wahrhaftig@mail.mcgill.ca) 
 <!---
