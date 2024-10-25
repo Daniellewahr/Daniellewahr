@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danielle Wahrhaftig
 - 👀 I’m interested in backend development and data engineering roles!
-- 🌱 I’m currently studying computer science and business at McGill University
+- 🌱 I’m currently studying computer science and business at McGill University, graduating in December 2024
 - 📫 [Contact me!](mailto:danielle.wahrhaftig@mail.mcgill.ca) 
 <!---
 Daniellewahr/Daniellewahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
